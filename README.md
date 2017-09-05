@@ -1,1 +1,1 @@
-# Machine learning practise code
+# Machine learning practice code
